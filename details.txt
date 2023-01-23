@@ -1,0 +1,20 @@
+This is a plagarism and paraphrasing tool. The tool is
+intreactible with Google search API using the custom search 
+engine for checking plagarism for the given query.
+
+The paraphrasing tool will help in rephrasing the plagarized 
+question intelligently using NLP.
+
+Source code: iamneo.ai
+
+Copyright: iamneo.ai
+
+Author: Biswajit Mohapatra [Neo Jarvis]
+
+Version: v1_005
+
+How to send arguments?
+
+For plagarism: host/checkPlagarism?text=your_search_query
+
+For Paraphrasing: host/paraphrase

@@ -1,0 +1,13 @@
+2023-01-18/12:04:46		Recieved Query!
+2023-01-18/12:04:47		Final data for the query is recieved!
+2023-01-18/12:04:47		Final data for the query is saved as json.
+2023-01-18/12:04:47		Something went wrong while paraphrasing!
+Error Message: dump() missing 1 required positional argument: 'fp'
+2023-01-18/12:36:07		Recieved Query!
+2023-01-18/12:36:08		Final data for the query is recieved!
+2023-01-18/12:36:08		Final data for the query is saved as json.
+2023-01-18/12:36:16		Starting paraphrasing!
+2023-01-18/12:36:16		Collected the model configurations!
+2023-01-18/12:36:16		Loading the saved model.
+2023-01-18/12:36:21		Starting the paraphrasing process...
+2023-01-18/12:36:22		Paraphrasing process completed...
