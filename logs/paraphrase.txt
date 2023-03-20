@@ -1,0 +1,49 @@
+2023-01-18/12:36:21		Starting rephrase module...
+2023-01-18/12:36:21		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-18/12:36:21		Starting encoding on the available device.
+2023-01-18/12:36:21		Fitting model to the available device : <class 'torch.device'>
+2023-01-18/12:36:21		Generating 7 outputs.
+2023-01-18/12:36:22		Rephrasing completed with 7 outputs.
+2023-01-24/12:44:03		Starting rephrase module...
+2023-01-24/12:44:03		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-24/12:44:03		Starting encoding on the available device.
+2023-01-24/12:44:03		Fitting model to the available device : <class 'torch.device'>
+2023-01-24/12:44:03		Generating 3 outputs.
+2023-01-24/12:44:06		Rephrasing completed with 3 outputs.
+2023-01-24/12:51:35		Starting rephrase module...
+2023-01-24/12:51:35		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-24/12:51:35		Starting encoding on the available device.
+2023-01-24/12:51:35		Fitting model to the available device : <class 'torch.device'>
+2023-01-24/12:51:35		Generating 3 outputs.
+2023-01-24/12:51:38		Rephrasing completed with 3 outputs.
+2023-01-24/13:02:20		Starting rephrase module...
+2023-01-24/13:02:20		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-24/13:02:20		Starting encoding on the available device.
+2023-01-24/13:02:20		Fitting model to the available device : <class 'torch.device'>
+2023-01-24/13:02:20		Generating 9 outputs.
+2023-01-24/13:02:25		Rephrasing completed with 9 outputs.
+2023-01-25/13:13:57		Starting rephrase module...
+2023-01-25/13:13:57		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-25/13:13:57		Starting encoding on the available device.
+2023-01-25/13:13:57		Fitting model to the available device : <class 'torch.device'>
+2023-01-25/13:13:57		Generating 9 outputs.
+2023-01-25/13:14:06		Rephrasing completed with 9 outputs.
+2023-01-25/15:09:35		Starting rephrase module...
+2023-01-25/15:09:35		Device : <class 'torch.device'>
+Cuda Available : False
+2023-01-25/15:09:35		Starting encoding on the available device.
+2023-01-25/15:09:35		Fitting model to the available device : <class 'torch.device'>
+2023-01-25/15:09:35		Generating 5 outputs.
+2023-01-25/15:09:45		Rephrasing completed with 5 outputs.
+2023-03-17/13:19:27		Starting rephrase module...
+2023-03-17/13:19:27		Device : <class 'torch.device'>
+Cuda Available : False
+2023-03-17/13:19:27		Starting encoding on the available device.
+2023-03-17/13:19:27		Fitting model to the available device : <class 'torch.device'>
+2023-03-17/13:19:27		Generating 8 outputs.
+2023-03-17/13:19:28		Rephrasing completed with 8 outputs.

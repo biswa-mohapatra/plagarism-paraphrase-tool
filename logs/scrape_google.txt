@@ -1,0 +1,370 @@
+2023-01-17/15:13:41		Started creating the search results.
+2023-01-17/15:13:41		Getting the source content for the search querry started.
+2023-01-17/15:13:41		Resource built successfuly!
+2023-01-17/15:13:41		Starting the searching operation.
+2023-01-17/15:13:54		Something went wrong in preparing reasults.
+Error Message: 'list' object has no attribute 'value'
+2023-01-17/15:14:21		Started creating the search results.
+2023-01-17/15:14:21		Getting the source content for the search querry started.
+2023-01-17/15:14:21		Resource built successfuly!
+2023-01-17/15:14:21		Starting the searching operation.
+2023-01-17/15:16:19		Started creating the search results.
+2023-01-17/15:16:19		Getting the source content for the search querry started.
+2023-01-17/15:16:19		Resource built successfuly!
+2023-01-17/15:16:19		Starting the searching operation.
+2023-01-17/15:18:30		Started creating the search results.
+2023-01-17/15:18:30		Getting the source content for the search querry started.
+2023-01-17/15:18:30		Resource built successfuly!
+2023-01-17/15:18:30		Starting the searching operation.
+2023-01-17/15:27:05		Started creating the search results.
+2023-01-17/15:27:05		Getting the source content for the search querry started.
+2023-01-17/15:27:05		Resource built successfuly!
+2023-01-17/15:27:05		Starting the searching operation.
+2023-01-17/15:30:43		Started creating the search results.
+2023-01-17/15:30:43		Getting the source content for the search querry started.
+2023-01-17/15:30:43		Resource built successfuly!
+2023-01-17/15:30:43		Starting the searching operation.
+2023-01-17/15:31:11		Started creating the search results.
+2023-01-17/15:31:11		Getting the source content for the search querry started.
+2023-01-17/15:31:11		Resource built successfuly!
+2023-01-17/15:31:11		Starting the searching operation.
+2023-01-17/15:32:11		Started creating the search results.
+2023-01-17/15:32:11		Getting the source content for the search querry started.
+2023-01-17/15:32:11		Resource built successfuly!
+2023-01-17/15:32:11		Starting the searching operation.
+2023-01-17/15:32:13		Something went wrong in preparing reasults.
+Error Message: 'list' object has no attribute 'value'
+2023-01-17/15:33:10		Started creating the search results.
+2023-01-17/15:33:10		Getting the source content for the search querry started.
+2023-01-17/15:33:10		Resource built successfuly!
+2023-01-17/15:33:10		Starting the searching operation.
+2023-01-17/15:35:11		Started creating the search results.
+2023-01-17/15:35:11		Getting the source content for the search querry started.
+2023-01-17/15:35:11		Resource built successfuly!
+2023-01-17/15:35:11		Starting the searching operation.
+2023-01-17/15:36:00		Started creating the search results.
+2023-01-17/15:36:00		Getting the source content for the search querry started.
+2023-01-17/15:36:00		Resource built successfuly!
+2023-01-17/15:36:00		Starting the searching operation.
+2023-01-17/15:36:19		Started creating the search results.
+2023-01-17/15:36:19		Getting the source content for the search querry started.
+2023-01-17/15:36:19		Resource built successfuly!
+2023-01-17/15:36:19		Starting the searching operation.
+2023-01-17/15:36:23		Something went wrong in preparing reasults.
+Error Message: 'list' object has no attribute 'value'
+2023-01-18/12:04:46		Started creating the search results.
+2023-01-18/12:04:46		Getting the source content for the search querry started.
+2023-01-18/12:04:46		Resource built successfuly!
+2023-01-18/12:04:46		Starting the searching operation.
+2023-01-18/12:04:47		Preparing the result!
+2023-01-18/12:04:47		Prepared the result!
+2023-01-18/12:12:43		Started creating the search results.
+2023-01-18/12:12:43		Getting the source content for the search querry started.
+2023-01-18/12:12:43		Resource built successfuly!
+2023-01-18/12:12:43		Starting the searching operation.
+2023-01-18/12:12:44		Preparing the result!
+2023-01-18/12:12:44		Prepared the result!
+2023-01-18/12:17:24		Started creating the search results.
+2023-01-18/12:17:24		Getting the source content for the search querry started.
+2023-01-18/12:17:24		Resource built successfuly!
+2023-01-18/12:17:24		Starting the searching operation.
+2023-01-18/12:17:25		Preparing the result!
+2023-01-18/12:17:25		Prepared the result!
+2023-01-18/12:22:03		Started creating the search results.
+2023-01-18/12:22:03		Getting the source content for the search querry started.
+2023-01-18/12:22:03		Resource built successfuly!
+2023-01-18/12:22:03		Starting the searching operation.
+2023-01-18/12:22:05		Preparing the result!
+2023-01-18/12:22:05		Prepared the result!
+2023-01-18/12:23:01		Started creating the search results.
+2023-01-18/12:23:01		Getting the source content for the search querry started.
+2023-01-18/12:23:01		Resource built successfuly!
+2023-01-18/12:23:01		Starting the searching operation.
+2023-01-18/12:23:02		Preparing the result!
+2023-01-18/12:23:02		Prepared the result!
+2023-01-18/12:24:39		Started creating the search results.
+2023-01-18/12:24:39		Getting the source content for the search querry started.
+2023-01-18/12:24:39		Resource built successfuly!
+2023-01-18/12:24:39		Starting the searching operation.
+2023-01-18/12:24:39		Preparing the result!
+2023-01-18/12:24:39		Prepared the result!
+2023-01-18/12:26:59		Started creating the search results.
+2023-01-18/12:26:59		Getting the source content for the search querry started.
+2023-01-18/12:26:59		Resource built successfuly!
+2023-01-18/12:26:59		Starting the searching operation.
+2023-01-18/12:27:01		Preparing the result!
+2023-01-18/12:27:01		Prepared the result!
+2023-01-18/12:29:15		Started creating the search results.
+2023-01-18/12:29:15		Getting the source content for the search querry started.
+2023-01-18/12:29:15		Resource built successfuly!
+2023-01-18/12:29:15		Starting the searching operation.
+2023-01-18/12:29:17		Preparing the result!
+2023-01-18/12:29:17		Prepared the result!
+2023-01-18/12:30:14		Started creating the search results.
+2023-01-18/12:30:14		Getting the source content for the search querry started.
+2023-01-18/12:30:14		Resource built successfuly!
+2023-01-18/12:30:14		Starting the searching operation.
+2023-01-18/12:30:15		Preparing the result!
+2023-01-18/12:30:15		Prepared the result!
+2023-01-18/12:36:07		Started creating the search results.
+2023-01-18/12:36:07		Getting the source content for the search querry started.
+2023-01-18/12:36:07		Resource built successfuly!
+2023-01-18/12:36:07		Starting the searching operation.
+2023-01-18/12:36:08		Preparing the result!
+2023-01-18/12:36:08		Prepared the result!
+2023-01-24/12:28:43		Started creating the search results.
+2023-01-24/12:28:43		Getting the source content for the search querry started.
+2023-01-24/12:28:43		Resource built successfuly!
+2023-01-24/12:28:43		Starting the searching operation.
+2023-01-24/12:28:45		Preparing the result!
+2023-01-24/12:28:45		Prepared the result!
+2023-01-24/12:38:40		Started creating the search results.
+2023-01-24/12:38:40		Getting the source content for the search querry started.
+2023-01-24/12:38:40		Resource built successfuly!
+2023-01-24/12:38:40		Starting the searching operation.
+2023-01-24/12:38:43		Preparing the result!
+2023-01-24/12:38:43		Prepared the result!
+2023-01-24/12:40:46		Started creating the search results.
+2023-01-24/12:40:46		Getting the source content for the search querry started.
+2023-01-24/12:40:46		Resource built successfuly!
+2023-01-24/12:40:46		Starting the searching operation.
+2023-01-24/12:40:49		Preparing the result!
+2023-01-24/12:40:49		Prepared the result!
+2023-01-24/12:43:44		Started creating the search results.
+2023-01-24/12:43:44		Getting the source content for the search querry started.
+2023-01-24/12:43:44		Resource built successfuly!
+2023-01-24/12:43:44		Starting the searching operation.
+2023-01-24/12:43:46		Preparing the result!
+2023-01-24/12:43:46		Prepared the result!
+2023-01-24/12:44:38		Started creating the search results.
+2023-01-24/12:44:38		Getting the source content for the search querry started.
+2023-01-24/12:44:38		Resource built successfuly!
+2023-01-24/12:44:38		Starting the searching operation.
+2023-01-24/12:44:41		Preparing the result!
+2023-01-24/12:44:41		Prepared the result!
+2023-01-24/12:47:13		Started creating the search results.
+2023-01-24/12:47:13		Getting the source content for the search querry started.
+2023-01-24/12:47:13		Resource built successfuly!
+2023-01-24/12:47:13		Starting the searching operation.
+2023-01-24/12:47:15		Preparing the result!
+2023-01-24/12:47:15		Prepared the result!
+2023-01-24/12:51:04		Started creating the search results.
+2023-01-24/12:51:04		Getting the source content for the search querry started.
+2023-01-24/12:51:04		Resource built successfuly!
+2023-01-24/12:51:04		Starting the searching operation.
+2023-01-24/12:51:07		Preparing the result!
+2023-01-24/12:51:07		Prepared the result!
+2023-01-24/12:52:14		Started creating the search results.
+2023-01-24/12:52:14		Getting the source content for the search querry started.
+2023-01-24/12:52:14		Resource built successfuly!
+2023-01-24/12:52:14		Starting the searching operation.
+2023-01-24/12:52:16		Preparing the result!
+2023-01-24/12:52:16		Prepared the result!
+2023-01-24/12:59:26		Started creating the search results.
+2023-01-24/12:59:26		Getting the source content for the search querry started.
+2023-01-24/12:59:26		Resource built successfuly!
+2023-01-24/12:59:26		Starting the searching operation.
+2023-01-24/12:59:28		Preparing the result!
+2023-01-24/12:59:28		Prepared the result!
+2023-01-24/13:02:06		Started creating the search results.
+2023-01-24/13:02:06		Getting the source content for the search querry started.
+2023-01-24/13:02:06		Resource built successfuly!
+2023-01-24/13:02:06		Starting the searching operation.
+2023-01-24/13:02:08		Preparing the result!
+2023-01-24/13:02:08		Prepared the result!
+2023-01-24/13:03:17		Started creating the search results.
+2023-01-24/13:03:17		Getting the source content for the search querry started.
+2023-01-24/13:03:17		Resource built successfuly!
+2023-01-24/13:03:17		Starting the searching operation.
+2023-01-24/13:03:19		Preparing the result!
+2023-01-24/13:03:19		Prepared the result!
+2023-01-25/13:11:58		Started creating the search results.
+2023-01-25/13:11:58		Getting the source content for the search querry started.
+2023-01-25/13:11:58		Resource built successfuly!
+2023-01-25/13:11:58		Starting the searching operation.
+2023-01-25/13:12:01		Preparing the result!
+2023-01-25/13:12:01		Prepared the result!
+2023-01-25/15:08:18		Started creating the search results.
+2023-01-25/15:08:18		Getting the source content for the search querry started.
+2023-01-25/15:08:18		Resource built successfuly!
+2023-01-25/15:08:18		Starting the searching operation.
+2023-01-25/15:08:20		Preparing the result!
+2023-01-25/15:08:20		Prepared the result!
+2023-01-25/16:29:38		Started creating the search results.
+2023-01-25/16:29:38		Getting the source content for the search querry started.
+2023-01-25/16:29:38		Resource built successfuly!
+2023-01-25/16:29:38		Starting the searching operation.
+2023-01-25/16:29:38		Something went wrong in searching reasults.
+Error Message: Unable to find the server at customsearch.googleapis.com
+2023-01-25/16:29:38		Something went wrong in preparing reasults.
+Error Message: 
+2023-01-25/16:30:50		Started creating the search results.
+2023-01-25/16:30:50		Getting the source content for the search querry started.
+2023-01-25/16:30:50		Resource built successfuly!
+2023-01-25/16:30:50		Starting the searching operation.
+2023-01-25/16:30:54		Preparing the result!
+2023-01-25/16:30:54		Prepared the result!
+2023-01-25/16:33:40		Started creating the search results.
+2023-01-25/16:33:40		Getting the source content for the search querry started.
+2023-01-25/16:33:40		Resource built successfuly!
+2023-01-25/16:33:40		Starting the searching operation.
+2023-01-25/16:33:42		Preparing the result!
+2023-01-25/16:33:42		Prepared the result!
+2023-01-25/16:38:36		Started creating the search results.
+2023-01-25/16:38:36		Getting the source content for the search querry started.
+2023-01-25/16:38:36		Resource built successfuly!
+2023-01-25/16:38:36		Starting the searching operation.
+2023-01-25/16:38:39		Preparing the result!
+2023-01-25/16:38:39		Prepared the result!
+2023-01-25/16:41:34		Started creating the search results.
+2023-01-25/16:41:34		Getting the source content for the search querry started.
+2023-01-25/16:41:34		Resource built successfuly!
+2023-01-25/16:41:34		Starting the searching operation.
+2023-01-25/16:41:36		Preparing the result!
+2023-01-25/16:41:36		Prepared the result!
+2023-01-25/16:52:42		Started creating the search results.
+2023-01-25/16:52:42		Getting the source content for the search querry started.
+2023-01-25/16:52:42		Resource built successfuly!
+2023-01-25/16:52:42		Starting the searching operation.
+2023-01-25/16:52:46		Preparing the result!
+2023-01-25/16:52:46		Prepared the result!
+2023-01-25/17:00:18		Started creating the search results.
+2023-01-25/17:00:18		Getting the source content for the search querry started.
+2023-01-25/17:00:18		Resource built successfuly!
+2023-01-25/17:00:18		Starting the searching operation.
+2023-01-25/17:00:22		Preparing the result!
+2023-01-25/17:00:22		Prepared the result!
+2023-01-25/17:00:30		Started creating the search results.
+2023-01-25/17:00:30		Getting the source content for the search querry started.
+2023-01-25/17:00:30		Resource built successfuly!
+2023-01-25/17:00:30		Starting the searching operation.
+2023-01-25/17:00:33		Preparing the result!
+2023-01-25/17:00:33		Prepared the result!
+2023-01-25/17:02:43		Started creating the search results.
+2023-01-25/17:02:43		Getting the source content for the search querry started.
+2023-01-25/17:02:43		Resource built successfuly!
+2023-01-25/17:02:43		Starting the searching operation.
+2023-01-25/17:02:46		Preparing the result!
+2023-01-25/17:02:46		Prepared the result!
+2023-01-25/17:04:01		Started creating the search results.
+2023-01-25/17:04:01		Getting the source content for the search querry started.
+2023-01-25/17:04:01		Resource built successfuly!
+2023-01-25/17:04:01		Starting the searching operation.
+2023-01-25/17:04:04		Preparing the result!
+2023-01-25/17:04:04		Prepared the result!
+2023-01-25/17:07:51		Started creating the search results.
+2023-01-25/17:07:51		Getting the source content for the search querry started.
+2023-01-25/17:07:51		Resource built successfuly!
+2023-01-25/17:07:51		Starting the searching operation.
+2023-01-25/17:07:54		Preparing the result!
+2023-01-25/17:07:54		Prepared the result!
+2023-01-25/17:12:35		Started creating the search results.
+2023-01-25/17:12:35		Getting the source content for the search querry started.
+2023-01-25/17:12:35		Resource built successfuly!
+2023-01-25/17:12:35		Starting the searching operation.
+2023-01-25/17:12:38		Preparing the result!
+2023-01-25/17:12:38		Prepared the result!
+2023-03-17/13:14:16		Started creating the search results.
+2023-03-17/13:14:16		Getting the source content for the search querry started.
+2023-03-17/13:14:16		Resource built successfuly!
+2023-03-17/13:14:16		Starting the searching operation.
+2023-03-17/13:14:19		Preparing the result!
+2023-03-17/13:14:19		Prepared the result!
+2023-03-20/12:35:47		Started creating the search results.
+2023-03-20/12:35:47		Getting the source content for the search querry started.
+2023-03-20/12:35:47		Resource built successfuly!
+2023-03-20/12:35:47		Starting the searching operation.
+2023-03-20/12:35:47		Something went wrong in searching reasults.
+Error Message: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=&cx=976d4d8794ffe4873&start=1&key=AIzaSyAx6ATpIlbfQELX2xDMOwQO5cXZwZXZJAw&alt=json returned "Request contains an invalid argument.". Details: "[{'message': 'Request contains an invalid argument.', 'domain': 'global', 'reason': 'badRequest'}]">
+2023-03-20/12:35:47		Something went wrong in preparing reasults.
+Error Message: 
+2023-03-20/12:36:23		Started creating the search results.
+2023-03-20/12:36:23		Getting the source content for the search querry started.
+2023-03-20/12:36:23		Resource built successfuly!
+2023-03-20/12:36:23		Starting the searching operation.
+2023-03-20/12:36:24		Preparing the result!
+2023-03-20/12:36:24		Prepared the result!
+2023-03-20/12:43:32		Started creating the search results.
+2023-03-20/12:43:32		Getting the source content for the search querry started.
+2023-03-20/12:43:32		Resource built successfuly!
+2023-03-20/12:43:32		Starting the searching operation.
+2023-03-20/12:43:35		Preparing the result!
+2023-03-20/12:43:35		Prepared the result!
+2023-03-20/13:14:14		Started creating the search results.
+2023-03-20/13:14:14		Getting the source content for the search querry started.
+2023-03-20/13:14:14		Resource built successfuly!
+2023-03-20/13:14:14		Starting the searching operation.
+2023-03-20/13:14:16		Preparing the result!
+2023-03-20/13:14:16		Prepared the result!
+2023-03-20/13:37:27		Started creating the search results.
+2023-03-20/13:37:27		Getting the source content for the search querry started.
+2023-03-20/13:37:27		Resource built successfuly!
+2023-03-20/13:37:27		Starting the searching operation.
+2023-03-20/13:37:29		Preparing the result!
+2023-03-20/13:37:29		Prepared the result!
+2023-03-20/13:37:47		Started creating the search results.
+2023-03-20/13:37:47		Getting the source content for the search querry started.
+2023-03-20/13:37:47		Resource built successfuly!
+2023-03-20/13:37:47		Starting the searching operation.
+2023-03-20/13:37:48		Preparing the result!
+2023-03-20/13:37:48		Prepared the result!
+2023-03-20/13:40:03		Started creating the search results.
+2023-03-20/13:40:03		Getting the source content for the search querry started.
+2023-03-20/13:40:03		Resource built successfuly!
+2023-03-20/13:40:03		Starting the searching operation.
+2023-03-20/13:40:04		Preparing the result!
+2023-03-20/13:40:04		Prepared the result!
+2023-03-20/13:42:49		Started creating the search results.
+2023-03-20/13:42:49		Getting the source content for the search querry started.
+2023-03-20/13:42:49		Resource built successfuly!
+2023-03-20/13:42:49		Starting the searching operation.
+2023-03-20/13:42:50		Preparing the result!
+2023-03-20/13:42:50		Prepared the result!
+2023-03-20/14:52:15		Started creating the search results.
+2023-03-20/14:52:15		Getting the source content for the search querry started.
+2023-03-20/14:52:15		Resource built successfuly!
+2023-03-20/14:52:15		Starting the searching operation.
+2023-03-20/14:52:16		Preparing the result!
+2023-03-20/14:52:16		Prepared the result!
+2023-03-20/14:54:30		Started creating the search results.
+2023-03-20/14:54:30		Getting the source content for the search querry started.
+2023-03-20/14:54:30		Resource built successfuly!
+2023-03-20/14:54:30		Starting the searching operation.
+2023-03-20/14:54:31		Preparing the result!
+2023-03-20/14:54:31		Prepared the result!
+2023-03-20/15:00:20		Started creating the search results.
+2023-03-20/15:00:20		Getting the source content for the search querry started.
+2023-03-20/15:00:20		Resource built successfuly!
+2023-03-20/15:00:20		Starting the searching operation.
+2023-03-20/15:00:21		Preparing the result!
+2023-03-20/15:00:21		Prepared the result!
+2023-03-20/15:00:21		Started creating the search results.
+2023-03-20/15:00:21		Getting the source content for the search querry started.
+2023-03-20/15:00:21		Resource built successfuly!
+2023-03-20/15:00:21		Starting the searching operation.
+2023-03-20/15:00:23		Preparing the result!
+2023-03-20/15:00:23		Prepared the result!
+2023-03-20/15:06:41		Started creating the search results.
+2023-03-20/15:06:41		Getting the source content for the search querry started.
+2023-03-20/15:06:41		Resource built successfuly!
+2023-03-20/15:06:41		Starting the searching operation.
+2023-03-20/15:06:43		Preparing the result!
+2023-03-20/15:06:43		Prepared the result!
+2023-03-20/15:06:43		Started creating the search results.
+2023-03-20/15:06:43		Getting the source content for the search querry started.
+2023-03-20/15:06:43		Resource built successfuly!
+2023-03-20/15:06:43		Starting the searching operation.
+2023-03-20/15:06:44		Preparing the result!
+2023-03-20/15:06:44		Prepared the result!
+2023-03-20/15:24:26		Started creating the search results.
+2023-03-20/15:24:26		Getting the source content for the search querry started.
+2023-03-20/15:24:26		Resource built successfuly!
+2023-03-20/15:24:26		Starting the searching operation.
+2023-03-20/15:24:28		Preparing the result!
+2023-03-20/15:24:28		Prepared the result!
+2023-03-20/15:24:28		Started creating the search results.
+2023-03-20/15:24:28		Getting the source content for the search querry started.
+2023-03-20/15:24:28		Resource built successfuly!
+2023-03-20/15:24:28		Starting the searching operation.
+2023-03-20/15:24:29		Preparing the result!
+2023-03-20/15:24:29		Prepared the result!

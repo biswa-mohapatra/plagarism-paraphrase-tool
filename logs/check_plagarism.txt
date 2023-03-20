@@ -1,0 +1,189 @@
+2023-01-18/12:04:46		Checking for similarity started!
+2023-01-18/12:04:46		Fetching the search result.
+2023-01-18/12:04:47		Search result fetched successfully! Finding the matches.
+2023-01-18/12:04:47		2Matches found, sorting them.
+2023-01-18/12:04:47		Matches sorted.
+2023-01-18/12:12:43		Checking for similarity started!
+2023-01-18/12:12:43		Fetching the search result.
+2023-01-18/12:12:44		Search result fetched successfully! Finding the matches.
+2023-01-18/12:12:44		2Matches found, sorting them.
+2023-01-18/12:12:44		Matches sorted.
+2023-01-18/12:17:24		Checking for similarity started!
+2023-01-18/12:17:24		Fetching the search result.
+2023-01-18/12:17:25		Search result fetched successfully! Finding the matches.
+2023-01-18/12:17:25		2Matches found, sorting them.
+2023-01-18/12:17:25		Matches sorted.
+2023-01-18/12:22:03		Checking for similarity started!
+2023-01-18/12:22:03		Fetching the search result.
+2023-01-18/12:22:05		Search result fetched successfully! Finding the matches.
+2023-01-18/12:22:05		2Matches found, sorting them.
+2023-01-18/12:22:05		Matches sorted.
+2023-01-18/12:23:01		Checking for similarity started!
+2023-01-18/12:23:01		Fetching the search result.
+2023-01-18/12:23:02		Search result fetched successfully! Finding the matches.
+2023-01-18/12:23:02		2Matches found, sorting them.
+2023-01-18/12:23:02		Matches sorted.
+2023-01-18/12:24:39		Checking for similarity started!
+2023-01-18/12:24:39		Fetching the search result.
+2023-01-18/12:24:39		Search result fetched successfully! Finding the matches.
+2023-01-18/12:24:39		2Matches found, sorting them.
+2023-01-18/12:24:39		Matches sorted.
+2023-01-18/12:26:59		Checking for similarity started!
+2023-01-18/12:26:59		Fetching the search result.
+2023-01-18/12:27:01		Search result fetched successfully! Finding the matches.
+2023-01-18/12:27:01		2Matches found, sorting them.
+2023-01-18/12:27:01		Matches sorted.
+2023-01-18/12:29:15		Checking for similarity started!
+2023-01-18/12:29:15		Fetching the search result.
+2023-01-18/12:29:17		Search result fetched successfully! Finding the matches.
+2023-01-18/12:29:17		2Matches found, sorting them.
+2023-01-18/12:29:17		Matches sorted.
+2023-01-18/12:30:14		Checking for similarity started!
+2023-01-18/12:30:14		Fetching the search result.
+2023-01-18/12:30:15		Search result fetched successfully! Finding the matches.
+2023-01-18/12:30:15		2Matches found, sorting them.
+2023-01-18/12:30:15		Matches sorted.
+2023-01-18/12:36:07		Checking for similarity started!
+2023-01-18/12:36:07		Fetching the search result.
+2023-01-18/12:36:08		Search result fetched successfully! Finding the matches.
+2023-01-18/12:36:08		2Matches found, sorting them.
+2023-01-18/12:36:08		Matches sorted.
+2023-01-24/12:28:43		Checking for similarity started!
+2023-01-24/12:28:43		Fetching the search result.
+2023-01-24/12:28:45		Search result fetched successfully! Finding the matches.
+2023-01-24/12:28:45		10Matches found, sorting them.
+2023-01-24/12:28:45		Matches sorted.
+2023-01-24/12:38:40		Checking for similarity started!
+2023-01-24/12:38:40		Fetching the search result.
+2023-01-24/12:38:43		Search result fetched successfully! Finding the matches.
+2023-01-24/12:38:43		10Matches found, sorting them.
+2023-01-24/12:38:43		Matches sorted.
+2023-01-24/12:40:46		Checking for similarity started!
+2023-01-24/12:40:46		Fetching the search result.
+2023-01-24/12:40:49		Search result fetched successfully! Finding the matches.
+2023-01-24/12:40:49		10Matches found, sorting them.
+2023-01-24/12:40:49		Matches sorted.
+2023-01-24/12:43:44		Checking for similarity started!
+2023-01-24/12:43:44		Fetching the search result.
+2023-01-24/12:43:46		Search result fetched successfully! Finding the matches.
+2023-01-24/12:43:46		8Matches found, sorting them.
+2023-01-24/12:43:46		Matches sorted.
+2023-01-24/12:44:38		Checking for similarity started!
+2023-01-24/12:44:38		Fetching the search result.
+2023-01-24/12:44:41		Search result fetched successfully! Finding the matches.
+2023-01-24/12:44:41		8Matches found, sorting them.
+2023-01-24/12:44:41		Matches sorted.
+2023-01-24/12:47:13		Checking for similarity started!
+2023-01-24/12:47:13		Fetching the search result.
+2023-01-24/12:47:15		Search result fetched successfully! Finding the matches.
+2023-01-24/12:47:15		8Matches found, sorting them.
+2023-01-24/12:47:15		Matches sorted.
+2023-01-24/12:51:04		Checking for similarity started!
+2023-01-24/12:51:04		Fetching the search result.
+2023-01-24/12:51:07		Search result fetched successfully! Finding the matches.
+2023-01-24/12:51:07		8Matches found, sorting them.
+2023-01-24/12:51:07		Matches sorted.
+2023-01-24/12:52:14		Checking for similarity started!
+2023-01-24/12:52:14		Fetching the search result.
+2023-01-24/12:52:16		Search result fetched successfully! Finding the matches.
+2023-01-24/12:52:16		8Matches found, sorting them.
+2023-01-24/12:52:16		Matches sorted.
+2023-01-24/12:59:26		Checking for similarity started!
+2023-01-24/12:59:26		Fetching the search result.
+2023-01-24/12:59:28		Search result fetched successfully! Finding the matches.
+2023-01-24/12:59:28		7Matches found, sorting them.
+2023-01-24/12:59:28		Matches sorted.
+2023-01-24/13:02:06		Checking for similarity started!
+2023-01-24/13:02:06		Fetching the search result.
+2023-01-24/13:02:08		Search result fetched successfully! Finding the matches.
+2023-01-24/13:02:08		8Matches found, sorting them.
+2023-01-24/13:02:08		Matches sorted.
+2023-01-24/13:03:17		Checking for similarity started!
+2023-01-24/13:03:17		Fetching the search result.
+2023-01-24/13:03:19		Search result fetched successfully! Finding the matches.
+2023-01-24/13:03:19		10Matches found, sorting them.
+2023-01-24/13:03:19		Matches sorted.
+2023-01-25/13:11:58		Checking for similarity started!
+2023-01-25/13:11:58		Fetching the search result.
+2023-01-25/13:12:01		Search result fetched successfully! Finding the matches.
+2023-01-25/13:12:01		8Matches found, sorting them.
+2023-01-25/13:12:01		Matches sorted.
+2023-01-25/15:08:18		Checking for similarity started!
+2023-01-25/15:08:18		Fetching the search result.
+2023-01-25/15:08:20		Search result fetched successfully! Finding the matches.
+2023-01-25/15:08:20		9Matches found, sorting them.
+2023-01-25/15:08:20		Matches sorted.
+2023-01-25/16:29:38		Checking for similarity started!
+2023-01-25/16:29:38		Fetching the search result.
+2023-01-25/16:29:38		Something went wrong in checking similarity.
+Error Message: <class 'Exception'>
+2023-01-25/16:30:50		Checking for similarity started!
+2023-01-25/16:30:50		Fetching the search result.
+2023-01-25/16:30:54		Search result fetched successfully! Finding the matches.
+2023-01-25/16:30:54		9Matches found, sorting them.
+2023-01-25/16:30:54		Matches sorted.
+2023-01-25/16:33:40		Checking for similarity started!
+2023-01-25/16:33:40		Fetching the search result.
+2023-01-25/16:33:42		Search result fetched successfully! Finding the matches.
+2023-01-25/16:33:42		13Matches found, sorting them.
+2023-01-25/16:33:42		Matches sorted.
+2023-01-25/16:38:36		Checking for similarity started!
+2023-01-25/16:38:36		Fetching the search result.
+2023-01-25/16:38:39		Search result fetched successfully! Finding the matches.
+2023-01-25/16:38:39		13Matches found, sorting them.
+2023-01-25/16:38:39		Matches sorted.
+2023-01-25/16:41:34		Checking for similarity started!
+2023-01-25/16:41:34		Fetching the search result.
+2023-01-25/16:41:36		Search result fetched successfully! Finding the matches.
+2023-01-25/16:41:36		13Matches found, sorting them.
+2023-01-25/16:41:36		Matches sorted.
+2023-01-25/16:52:42		Checking for similarity started!
+2023-01-25/16:52:42		Fetching the search result.
+2023-01-25/16:52:46		Search result fetched successfully! Finding the matches.
+2023-01-25/16:52:46		12Matches found, sorting them.
+2023-01-25/16:52:46		Matches sorted.
+2023-01-25/17:00:18		Checking for similarity started!
+2023-01-25/17:00:18		Fetching the search result.
+2023-01-25/17:00:22		Search result fetched successfully! Finding the matches.
+2023-01-25/17:00:22		13Matches found, sorting them.
+2023-01-25/17:00:22		Matches sorted.
+2023-01-25/17:00:30		Checking for similarity started!
+2023-01-25/17:00:30		Fetching the search result.
+2023-01-25/17:00:33		Search result fetched successfully! Finding the matches.
+2023-01-25/17:00:33		13Matches found, sorting them.
+2023-01-25/17:00:33		Matches sorted.
+2023-01-25/17:02:43		Checking for similarity started!
+2023-01-25/17:02:43		Fetching the search result.
+2023-01-25/17:02:46		Search result fetched successfully! Finding the matches.
+2023-01-25/17:02:46		13Matches found, sorting them.
+2023-01-25/17:02:46		Matches sorted.
+2023-01-25/17:04:01		Checking for similarity started!
+2023-01-25/17:04:01		Fetching the search result.
+2023-01-25/17:04:04		Search result fetched successfully! Finding the matches.
+2023-01-25/17:04:04		13Matches found, sorting them.
+2023-01-25/17:04:04		Matches sorted.
+2023-01-25/17:07:51		Checking for similarity started!
+2023-01-25/17:07:51		Fetching the search result.
+2023-01-25/17:07:54		Search result fetched successfully! Finding the matches.
+2023-01-25/17:07:54		13Matches found, sorting them.
+2023-01-25/17:07:54		Matches sorted.
+2023-01-25/17:12:35		Checking for similarity started!
+2023-01-25/17:12:35		Fetching the search result.
+2023-01-25/17:12:38		Search result fetched successfully! Finding the matches.
+2023-01-25/17:12:38		13Matches found, sorting them.
+2023-01-25/17:12:38		Matches sorted.
+2023-03-17/13:14:16		Checking for similarity started!
+2023-03-17/13:14:16		Fetching the search result.
+2023-03-17/13:14:19		Search result fetched successfully! Finding the matches.
+2023-03-17/13:14:19		14Matches found, sorting them.
+2023-03-17/13:14:19		Matches sorted.
+2023-03-20/15:06:43		Checking for similarity started!
+2023-03-20/15:06:43		Fetching the search result.
+2023-03-20/15:06:44		Search result fetched successfully! Finding the matches.
+2023-03-20/15:06:44		12Matches found, sorting them.
+2023-03-20/15:06:44		Matches sorted.
+2023-03-20/15:24:28		Checking for similarity started!
+2023-03-20/15:24:28		Fetching the search result.
+2023-03-20/15:24:29		Search result fetched successfully! Finding the matches.
+2023-03-20/15:24:29		12Matches found, sorting them.
+2023-03-20/15:24:29		Matches sorted.
