@@ -1,8 +1,8 @@
 version: "3.7"
 
 services:
-  w2wduplicate: 
+  plagarismtool: 
     build:
       context: ./
     ports:
-      - 5000:5000
+      - 5000
