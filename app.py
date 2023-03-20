@@ -5,17 +5,17 @@ from application_logger import logging
 import torch
 import os
 import sys
-from scripts.utils import common
+from src.utils import common
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from scripts.paraphrase import rephrase
-from scripts import check_plagarism
+from src.plagarism_paraphrase.paraphrase import rephrase
+from src.plagarism_paraphrase import check_plagarism
 import json
 
 app = Flask(__name__)
 
 # Reading program details
-with open("details.txt","r") as f:
-        prompt = f.read()
+# with open("details.txt","r") as f:
+#         prompt = f.read()
 
 # file object for the logs.
 file_obj = open("MAIN.txt","a+")
@@ -27,7 +27,7 @@ def home(message=None):
     """
     This function is responsible for rendering the home page.
     """
-    sys.stdout.write(prompt)
+#     sys.stdout.write(prompt)
     if message == None:
         return f"<h2>Welcome to plagarism checker.</h2>"
     else:
@@ -79,7 +79,8 @@ def main():
                 #         json.dump(final_data, final, indent=4)
                 # log.log(f"Final data for the query is saved as json.")
                 #return render_template("home.html",matches=final_data)
-                return f"{final_data}"
+                #return f"{final_data}"
+                return json.dumps(dict(final_data))
                 
         else:
                 log.log(f"Request Method is not POST.")
@@ -123,10 +124,13 @@ def paraphrase():
                         log.log(f"Starting the paraphrasing process...")
 
                         # rephrasing the given query
-                        paraphrased = rephrase(query,tokenizer,model,num_outputs=num_outputs)
+                        paraphrased = rephrase(query,
+                                                tokenizer,model,
+                                                num_outputs=num_outputs)
                         log.log(f"Paraphrasing process completed...")
                         #return render_template("home.html",paraphrased=paraphrased)
-                        return f"{paraphrased}"
+                        #return f"{paraphrased}"
+                        return json.dumps(dict(paraphrased))
                 else:
                         log.log(f"Paraphrasing process did not complete due to inadequate response method hence\nreturning home page...")
                         return home()
@@ -171,4 +175,4 @@ def clear_logs():
                 raise Exception("Exception while deleting log files.")
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0',port=5000)
+    app.run(host='0.0.0.0',port=5000) 

@@ -2,13 +2,18 @@
 
 from application_logger.logging import App_Logger
 import os
+from thefuzz import fuzz
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 file_object = open("logs/paraphrase.txt","a+")
 logger = App_Logger(file_object)
 
-def rephrase(sentence:str,tokenizer,model,num_outputs:int)->list:
+def rephrase(sentence:str,
+            tokenizer,
+            model,
+            num_outputs:int,
+            )->list:
     """
     """
     try:
@@ -51,7 +56,8 @@ def rephrase(sentence:str,tokenizer,model,num_outputs:int)->list:
             line = tokenizer.decode(output, skip_special_tokens=True,clean_up_tokenization_spaces=True)
             collections.append(line)
         logger.log(f"Rephrasing completed with {num_outputs} outputs.")
-        return list(set(collections))
+        #return list(set(collections))
+        return [(i,fuzz.ratio(sentence,i)) for i in collections if fuzz.ratio(sentence,i) < 90]
 
     except TypeError as te:
         logger.log(f"Something went wrong in rephrasing the text.\nError Message:{te}") 

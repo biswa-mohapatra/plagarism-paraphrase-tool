@@ -1,7 +1,7 @@
 #importing all the libraries!
 
 from thefuzz import fuzz
-from scripts.scrape_google import scrape_google
+from src.plagarism_paraphrase.scrape_google import scrape_google
 from application_logger.logging import App_Logger
 
 file_object = open("logs/check_plagarism.txt","a+")
@@ -30,19 +30,19 @@ def check_similarity(query:str)->list:
         # finding the match ratio based on the fuzzy search!
         for key in result.keys():
             q2 = result[key].replace("\xa0...","")
-            set_ratio = fuzz.token_set_ratio(query,q2)
-            matches[set_ratio] = key
+            set_ratio = fuzz.token_sort_ratio(query,q2)
+            matches[key] = set_ratio
         
         # sorting the collection in descending order of the match percentage.
         logger.log(f"{len(list(matches.keys()))}Matches found, sorting them.")
-        idx = list(matches.keys())
+        idx = list(matches.values())
         idx.sort(reverse=True)
         logger.log(f"Matches sorted.")
-        output = {}
-        for i in idx:
-            output[matches[i]] = i
-        # [(matches[i],i) for i in idx]
-        return output
+        # output = {}
+        # for i in idx:
+        #     output[matches[i]] = i
+        return [(i,matches[i]) for i in matches.keys()]
+        #return output
     except TypeError:
         logger.log(f"Something went wrong in checking similarity.\nError Message: {TypeError}")
         raise TypeError

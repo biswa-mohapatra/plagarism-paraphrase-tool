@@ -9,11 +9,10 @@ Copyright : iamneo.ai
 
 
 from apiclient.discovery import build
-from jsonpath_ng import jsonpath, parse
 import pandas as pd
 from requests_html import HTML
 from requests_html import HTMLSession
-from scripts.utils.common import read_yaml
+from src.utils.common import read_yaml
 from application_logger.logging import App_Logger
 
 
