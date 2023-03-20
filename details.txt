@@ -18,3 +18,6 @@ How to send arguments?
 For plagarism: host/checkPlagarism?text=your_search_query
 
 For Paraphrasing: host/paraphrase
+
+
+It is found that 250 errors in the randomly selected 1000 lines of code from Team A and 300 errors in 800 lines of code from Team B. Can we assume that team B’s performance is superior to that of A. Check whether you will reject or accept the null hypothesis.The answer should contain 1. Z test value2. Reject or accept the null hypothesis3. Which team performance is superior(Just give team A/teamB)

@@ -11,3 +11,63 @@ Error Message: dump() missing 1 required positional argument: 'fp'
 2023-01-18/12:36:16		Loading the saved model.
 2023-01-18/12:36:21		Starting the paraphrasing process...
 2023-01-18/12:36:22		Paraphrasing process completed...
+2023-01-24/12:43:44		Recieved Query!
+2023-01-24/12:43:46		Final data for the query is recieved!
+2023-01-24/12:44:00		Starting paraphrasing!
+2023-01-24/12:44:00		Collected the model configurations!
+2023-01-24/12:44:00		Loading the saved model.
+2023-01-24/12:44:03		Starting the paraphrasing process...
+2023-01-24/12:44:06		Paraphrasing process completed...
+2023-01-24/12:44:38		Recieved Query!
+2023-01-24/12:44:41		Final data for the query is recieved!
+2023-01-24/12:47:13		Recieved Query!
+2023-01-24/12:47:15		Final data for the query is recieved!
+2023-01-24/12:51:04		Recieved Query!
+2023-01-24/12:51:07		Final data for the query is recieved!
+2023-01-24/12:51:31		Starting paraphrasing!
+2023-01-24/12:51:31		Collected the model configurations!
+2023-01-24/12:51:31		Loading the saved model.
+2023-01-24/12:51:35		Starting the paraphrasing process...
+2023-01-24/12:51:38		Paraphrasing process completed...
+2023-01-24/12:52:14		Recieved Query!
+2023-01-24/12:52:16		Final data for the query is recieved!
+2023-01-24/13:02:06		Recieved Query!
+2023-01-24/13:02:08		Final data for the query is recieved!
+2023-01-24/13:02:17		Starting paraphrasing!
+2023-01-24/13:02:17		Collected the model configurations!
+2023-01-24/13:02:17		Loading the saved model.
+2023-01-24/13:02:20		Starting the paraphrasing process...
+2023-01-24/13:02:25		Paraphrasing process completed...
+2023-01-24/13:03:17		Recieved Query!
+2023-01-24/13:03:19		Final data for the query is recieved!
+2023-01-25/13:11:58		Recieved Query!
+2023-01-25/13:12:01		Final data for the query is recieved!
+2023-01-25/13:13:48		Starting paraphrasing!
+2023-01-25/13:13:48		Collected the model configurations!
+2023-01-25/13:13:48		Loading the saved model.
+2023-01-25/13:13:57		Starting the paraphrasing process...
+2023-01-25/13:14:06		Paraphrasing process completed...
+2023-01-25/15:08:18		Recieved Query!
+2023-01-25/15:08:20		Final data for the query is recieved!
+2023-01-25/15:09:29		Starting paraphrasing!
+2023-01-25/15:09:29		Collected the model configurations!
+2023-01-25/15:09:29		Loading the saved model.
+2023-01-25/15:09:35		Starting the paraphrasing process...
+2023-01-25/15:09:45		Paraphrasing process completed...
+2023-01-25/16:29:38		Recieved Query!
+2023-01-25/16:29:38		Something went wrong while chceking plagarism!
+Error Message: 
+2023-01-25/16:30:50		Recieved Query!
+2023-01-25/16:30:54		Final data for the query is recieved!
+2023-01-25/16:38:36		Recieved Query!
+2023-01-25/16:38:39		Final data for the query is recieved!
+2023-03-17/13:10:19		Recieved Query!
+2023-03-17/13:10:19		Something went wrong while chceking plagarism!
+Error Message: name 'query' is not defined
+2023-03-17/13:14:16		Recieved Query!
+2023-03-17/13:14:19		Final data for the query is recieved!
+2023-03-17/13:19:23		Starting paraphrasing!
+2023-03-17/13:19:23		Collected the model configurations!
+2023-03-17/13:19:23		Loading the saved model.
+2023-03-17/13:19:27		Starting the paraphrasing process...
+2023-03-17/13:19:28		Paraphrasing process completed...
