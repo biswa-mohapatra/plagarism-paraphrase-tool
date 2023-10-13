@@ -5,11 +5,11 @@ The objective over here is to detect the possible leak of question over internet
 and upon leakage we should rephrase the question before publishing it.
 
 ### Tasks:
- > 1. An API to check for leakage of questions and collect the data such as
+ >  1. An API to check for leakage of questions and collect the data such as
 
->     1.1 Website linkes where the question found
+     > 1.1 Website linkes where the question found
 
->     1.2 Percentage similarity
+     > 1.2 Percentage similarity
 
 >  2. An API to recieve a text and rephrase it.
 
