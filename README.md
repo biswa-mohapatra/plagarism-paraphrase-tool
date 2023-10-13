@@ -29,4 +29,4 @@ time spent for top 3 most published question types in a span of 3 Months.
 | Programming            | 45 Minutes        | 10 Minutes |
 | Programming File Based | 1 Hour 10 Minutes | 30 Minutes |
 
-* The above results are based on average time spent over 3 months of data collectes. *
+*The above results are based on average time spent over 3 months of data collectes.*
